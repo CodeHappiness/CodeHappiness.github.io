@@ -2,18 +2,6 @@ body {
 	background-color: #CAD8D8;
 }
 
-body { padding-bottom: 70px; }
-
-.img-fit {
-	width: 100%;
-	margin: auto;
-	padding-bottom: 10px;
-}
-
-.page-header {
-	text-align: center;
-}
-
 /* HEADER  */
 .jumbotron {
 /*	overflow: auto;*/
@@ -60,15 +48,6 @@ a {
 .servi {
 	font-family: Arial;
 	color: #0D595C;  /*#0D595C*/
-}
-
-.servi-inverse {
-	font-family: Arial;
-	color: white;  /*#0D595C*/
-	background-color: #05686C;
-	text-align: center;
-	font-family: lato;
-	font-size: 2em;
 }
 
 
@@ -166,7 +145,7 @@ a:link, a:hover, a:visited{
 }
 #resultadoRifa {
 	color:red;
-	font-size:20px;
+	font-size:22px;
 	font-weight:bold;
 }
 
